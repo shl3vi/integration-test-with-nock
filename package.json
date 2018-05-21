@@ -1,0 +1,21 @@
+{
+  "name": "integrationtestspoc",
+  "version": "1.0.0",
+  "description": "poc for using supertest and nock",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "express": "^4.16.2",
+    "mocha": "^4.0.1",
+    "nock": "^9.1.3",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "request-repeat": "0.0.3",
+    "supertest": "^3.0.0"
+  }
+}
